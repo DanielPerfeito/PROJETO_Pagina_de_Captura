@@ -23,13 +23,14 @@ header{
     text-align: center;
     color: white;
     padding: 10px;
-    
-    
-
-
 }
 
 .title{
     font-size: 26px;
 
+}
+
+section{
+
+    color: white;
 }
